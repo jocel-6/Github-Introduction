@@ -1,0 +1,4 @@
+this is hello2 text file
+quit
+quit()
+help
